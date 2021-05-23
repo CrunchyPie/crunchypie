@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on some web3 projects, 
+have a look at my repo tab. Maybe you find something usefull!
+🌱 I think React and Redux are really cool, currently learning both.
+📫 you can reach me using KeyBase or just shoot me an e-mail. 
 
 <!--
 **CrunchyPie/crunchypie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
